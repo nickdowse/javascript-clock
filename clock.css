@@ -1,0 +1,17 @@
+body{
+  background-color: #eee;
+  color: black;
+}
+
+span {
+  margin-right: -20px;
+  margin-left: -20px;
+
+}
+
+#clock{
+  font-size: 5em;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
